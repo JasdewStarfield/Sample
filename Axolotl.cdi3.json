@@ -1,0 +1,207 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "PARAM_ANGLE_X",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "PARAM_ANGLE_Y",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "PARAM_ANGLE_Z",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "PARAM_EYE_L_OPEN",
+			"GroupId": "",
+			"Name": "左眼　開閉"
+		},
+		{
+			"Id": "PARAM_EYE_L_SMILE",
+			"GroupId": "",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "PARAM_EYE_R_OPEN",
+			"GroupId": "",
+			"Name": "右眼　開閉"
+		},
+		{
+			"Id": "PARAM_EYE_R_SMILE",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "PARAM_EYE_BALL_X",
+			"GroupId": "",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "PARAM_EYE_BALL_Y",
+			"GroupId": "",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "PARAM_BROW_L_Y",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "PARAM_BROW_R_Y",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "PARAM_BROW_L_X",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "PARAM_BROW_R_X",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "PARAM_BROW_L_ANGLE",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "PARAM_BROW_R_ANGLE",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "PARAM_BROW_L_FORM",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "PARAM_BROW_R_FORM",
+			"GroupId": "",
+			"Name": "右眉　变形"
+		},
+		{
+			"Id": "PARAM_MOUTH_FORM",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "PARAM_MOUTH_OPEN_Y",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "PARAM_CHEEK",
+			"GroupId": "",
+			"Name": "脸晕"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_X",
+			"GroupId": "",
+			"Name": "身体角度 X"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_Y",
+			"GroupId": "",
+			"Name": "身体 角度 Y"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_Z",
+			"GroupId": "",
+			"Name": "身体 角度 Z"
+		},
+		{
+			"Id": "PARAM_BREATH",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "PARAM_HAIR_FRONT",
+			"GroupId": "",
+			"Name": "发摇 前"
+		},
+		{
+			"Id": "PARAM_HAIR_SIDE",
+			"GroupId": "",
+			"Name": "发摇 横"
+		},
+		{
+			"Id": "PARAM_HAIR_BACK",
+			"GroupId": "",
+			"Name": "发摇 后"
+		},
+		{
+			"Id": "Param1",
+			"GroupId": "",
+			"Name": "左鳃"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "右鳃"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "PARTS_01_BACKGROUND",
+			"Name": "背景"
+		},
+		{
+			"Id": "PARTS_01_BODY",
+			"Name": "身体"
+		},
+		{
+			"Id": "PARTS_01_HAIR_BACK_001",
+			"Name": "后发"
+		},
+		{
+			"Id": "PARTS_01_HAIR_SIDE_001",
+			"Name": "侧发"
+		},
+		{
+			"Id": "PARTS_01_HAIR_FRONT_001",
+			"Name": "刘海"
+		},
+		{
+			"Id": "PARTS_01_MOUTH_001",
+			"Name": "嘴"
+		},
+		{
+			"Id": "PARTS_01_BROW_001",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "PARTS_01_EYE_BALL_001",
+			"Name": "眼球"
+		},
+		{
+			"Id": "PARTS_01_FACE_001",
+			"Name": "脸"
+		},
+		{
+			"Id": "ROUGH",
+			"Name": "粗略部件"
+		},
+		{
+			"Id": "PSD",
+			"Name": "PSD"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"PARAM_ANGLE_X",
+			"PARAM_ANGLE_Y"
+		],
+		[
+			"PARAM_EYE_BALL_X",
+			"PARAM_EYE_BALL_Y"
+		]
+	]
+}
